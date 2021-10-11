@@ -1,4 +1,4 @@
-time,jumlah_meninggal.value,jumlah_sembuh.value,jumlah_positif.value,jumlah_dirawat.value,jumlah_positif_kum.value,jumlah_sembuh_kum.value,jumlah_meninggal_kum.value,jumlah_dirawat_kum.value
+tanggal,jumlah_meninggal.value,jumlah_sembuh.value,jumlah_positif.value,jumlah_dirawat.value,jumlah_positif_kum.value,jumlah_sembuh_kum.value,jumlah_meninggal_kum.value,jumlah_dirawat_kum.value
 2020-03-02,0,0,2,2,2,0,0,2
 2020-03-03,0,0,0,0,2,0,0,2
 2020-03-04,0,0,0,0,2,0,0,2
